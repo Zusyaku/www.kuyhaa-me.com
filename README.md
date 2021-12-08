@@ -142,7 +142,7 @@ http://od.meong.club/kuy/file/Of.16-19.x64.2002.kuyhAa.7z 64bit
 
 
 Microsoft Office 2019 Pro Plus
-http://od.meong.club/kuy4/file4/Of.2016.2019.2021.x64.12.kuyhAa.7z
+https://od.meong.club/kuy4/file4/Of.2016.2019.2021.x64.12.kuyhAa.7z
 http://od.meong.club/kuy4/file4/Of.2016.2019.2021.x86.10.kuyhAa.7z
 http://od.meong.club/kuy4/file4/O.2016-2019.x86.2106.kuyhAa.7z
 http://od.meong.club/kuy4/file4/O.2016-2019.x64.2106.kuyhAa.7z
@@ -159,7 +159,8 @@ http://od.meong.club/kuy4/file4/Office.2016-2021.x64.0721.kuyhAa.7z
 
 
 Microsoft Office LTSC Pro Plus 2021
-http://od.meong.club/kuy4/file4/Of.2016.2019.2021.x64.12.kuyhAa.7z 64bit
+http://od.meong.club/kuy4/file4/Of.2016.2019.2021.x64.12.kuyhAa.7z
+http://od.meong.club/kuy4/file4/Of.2016.2019.2021.x86.12.kuyhAa.7z
 http://od.meong.club/kuy4/file4/Of.2016.2019.2021.x86.10.kuyhAa.7z
 http://od.meong.club/kuy4/file4/Of.2016.2019.2021.x64.10.kuyhAa.7z
 
@@ -282,6 +283,8 @@ Windows 10 Nexus LiteOS
 https://megaup.net/2hZoh/W.10.LiteOS.10.20H2X.x64.March_2021.kuyhAa.7z
 http://od.meong.club/kuy4/file4/W.10.LiteOS.10.20H2X.x64.March%202021.kuyhAa.7z
 
+Windows 10 Pro 21H2 Phoenix LiteOS Full
+http://od.meong.club/kuy5/file5/W.10%20Pro.Phoenix%20Gamer%2021H2%20Build%2019044.1387%20LiteOS%20(x64).kuyhAa.7z
 
 Windows XP Pro
 https://megaup.net/VCoa/W.XP_Pro.SP3_x86.2021.2.14.kuyhAa.zip
